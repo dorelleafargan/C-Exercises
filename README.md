@@ -1,4 +1,4 @@
-# C-Exercises
+# C# Development in a .NET Enviorment course.
 ## C# Course Home work
 ### Ex 01.
 
