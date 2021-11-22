@@ -31,4 +31,4 @@ Number Statistics -
 * Checks how many of the digits divide by 3 without reminder.
 * Checks how many digits of the number are smaller then the unit's digit.
 
-_**This solution code was made by Dorelle Afargan and Lior Elayev as part of our C# Development in a .NET Enviorment course.**_
+_**This solution code was made by Dorelle Afargan and Lior Elayev as part of our C# Development in a .NET Environment course.**_
