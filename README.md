@@ -2,7 +2,7 @@
 ## C# Course Home work
 ### Ex 01.
 
-This solution of code was made by Dorelle Afargan and Lior Elayev as part of our C# Development in a .NET Enviorment course.
+_This solution of code was made by Dorelle Afargan and Lior Elayev as part of our C# Development in a .NET Enviorment course._
 
 Ex01_1 -
 Binary Series -
